@@ -65,32 +65,32 @@ module.exports.routes = {
   '/products.html': {
     view: 'custom/products'
   },
-  '/product1.html': {
-    view: 'custom/product1'
+  '/products1.html': {
+    view: 'custom/products1'
   },
-  '/product2.html': {
-    view: 'custom/product2'
+  '/products2.html': {
+    view: 'custom/products2'
   },
-  '/product3.html': {
-    view: 'custom/product3'
+  '/products3.html': {
+    view: 'custom/products3'
   },
-  '/product4.html': {
-    view: 'custom/product4'
+  '/products4.html': {
+    view: 'custom/products4'
   },
-  '/product5.html': {
-    view: 'custom/product5'
+  '/products5.html': {
+    view: 'custom/products5'
   },
-  '/product6.html': {
-    view: 'custom/product6'
+  '/products6.html': {
+    view: 'custom/products6'
   },
-  '/product7.html': {
-    view: 'custom/product7'
+  '/products7.html': {
+    view: 'custom/products7'
   },
-  '/product8.html': {
-    view: 'custom/product8'
+  '/products8.html': {
+    view: 'custom/products8'
   },
-  '/product9.html': {
-    view: 'custom/product9'
+  '/products9.html': {
+    view: 'custom/products9'
   },
   '/signup.html': {
     view: 'custom/signup'
